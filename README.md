@@ -30,10 +30,5 @@ In this section we want to collect metadata from batch reactions
  
 </details>
 
-<b>batch reactions</b>
-</summary>
 
-In this section we want to collect metadata from batch reactions
- 
-</details>
 
