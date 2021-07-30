@@ -8,7 +8,7 @@ We need to ask ourself the question which metadata and **primary data** is impor
 
 | Metadata | value | example |
 | ------ | ------ |------ |
-| converio | 5844 € |BigBlueButton |
+| V | 5844 € |BigBlueButton |
  
 </details>
 
